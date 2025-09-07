@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog testing!
+title: The Pages site test!
 ---
-I would like to see these changes on the website
+I would like to see these changes on the website also
